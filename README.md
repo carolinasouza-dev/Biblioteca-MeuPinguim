@@ -1,2 +1,2 @@
-# MaisPraTi2026
-Exercicios do Programa de capacitação dev
+# Biblioteca Meu Pinguim
+Exercício desenvolvido no programa de capacitação +PraTi 2026 no curso de desenvolvimento FullStack + I.A
